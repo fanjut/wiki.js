@@ -8,3 +8,4 @@
 4. d...
 
 [Wiki](/wiki/).
+[un autre Wiki](/wiki_2/).
