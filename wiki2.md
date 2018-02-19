@@ -2,3 +2,5 @@
 <!-- SUBTITLE: A quick summary of Wiki 2 -->
 
 # Un autre wiki
+
+* voila
